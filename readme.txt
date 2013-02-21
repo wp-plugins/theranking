@@ -4,7 +4,7 @@ Donate link: http://www.theranking.com
 Tags: widget, theranking, socialmedia, ranking, social
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: http://theranking-pro.s3.amazonaws.com/static/plugins/wordpress/theranking.zip
+Stable tag: http://theranking-pro.s3.amazonaws.com/static/plugins/wordpress/theranking02.zip
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

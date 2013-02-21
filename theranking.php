@@ -3,9 +3,9 @@
 Plugin Name: The Ranking
 Plugin URI: http://www.theranking.com/es/
 Description: Muestra los &uacute;ltimos rankings en tu sitio.
-Version: 0.1
-Author: Natural Coding
-Author URI: http://naturalcoding.com
+Version: 0.2
+Author: TheRanking_dev
+Author URI: http://www.theranking.com
 License: 
 */
 
