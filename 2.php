@@ -45,7 +45,7 @@
 		function nc_ranking2() {
 			$widget_ops = array( 'classname' => 'nc_ranking2', 'description' => 'Muestra los rankings desde http://www.theranking.com/' ); // Widget Settings
 			$control_ops = array( 'id_base' => 'nc_ranking2' ); // Widget Control Settings
-			$this->WP_Widget( 'nc_ranking2', 'El Ranking', $widget_ops, $control_ops ); // Create the widget
+			$this->WP_Widget( 'nc_ranking2', 'ThRanking.com', $widget_ops, $control_ops ); // Create the widget
 		}
 
 	// Extract Args //
