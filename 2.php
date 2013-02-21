@@ -150,9 +150,8 @@
 		if ( get_option( 'nc_therank_categories' ) ) {
 				$nc_therank_categories = get_option( 'nc_therank_categories' );
 			} else {
-			$therankcategories = file_get_contents("C:\categories.json");
+			$therankcategories = file_get_contents("http://www.theranking.com/es/categories.json");
 
-			//$therankcategories = file_get_contents("http://www.theranking.com/es/categories.json");
 			$lastjason = json_decode($therankcategories, true);
 
 			$ca = 0;
