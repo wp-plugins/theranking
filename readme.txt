@@ -17,6 +17,14 @@ Use the TheRanking.com pluggin. Choose any of the rankings that we offer by cate
 In TheRanking.com we certify the voting process, so we track against Facebook, Twitter or username/password.
 Easy, useful and fun.
 
+
+== Screenshots ==
+
+1. assets/theranking-wordpress-1.png
+2. assets/theranking-wordpress-2.png
+3. assets/theranking-wordpress-3.png 
+
+
 == Installation ==
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
